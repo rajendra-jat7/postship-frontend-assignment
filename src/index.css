@@ -1,0 +1,27 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  }
+  
+  body {
+    font-family: Inter;
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  .header {
+    background-color: #ccc;
+  }
+  
+  .arrow {
+    width: 10px;
+    height: 5px;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+  .tab:hover {
+    cursor: pointer;
+  }
+  
